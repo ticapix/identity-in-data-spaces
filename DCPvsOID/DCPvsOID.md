@@ -17,10 +17,9 @@ Moreover, this iterative process of reconciliation is dynamic, allowing the data
 
 ## Use Case: Utilizing Decentralized Identities and Verifiable Credentials in Manufacturing-X for Digital Product Passports
 
-### Introduction to Manufacturing-X and Aerospace-X 
+### Introduction to Manufacturing-X
 Manufacturing-X represents a transformative vision for industrial collaboration within Europe, aimed at establishing a secure and interoperable dataspace for manufacturers. As an initiative, it seeks to bridge organizational silos and promote data sharing across the manufacturing ecosystem, including supply chain partners, technology providers, and regulators. This digital infrastructure emphasizes trust, transparency, and adherence to governance policies.
 
-Within Manufacturing-X, Aerospace-X emerges as a specific project tailored to the aerospace industry. Aerospace-X exemplifies the principles of Manufacturing-X by fostering collaboration among aerospace manufacturers, suppliers, and regulatory bodies. It focuses on enabling innovations such as seamless data exchange, enhanced traceability, and compliance with stringent industry standards.
 ### Understanding the Digital Product Passport (DPP) 
 The Digital Product Passport (DPP)  is a digital record that contains essential information about a product’s lifecycle, including its materials, production processes, environmental impact, and compliance certifications. The DPP serves as a cornerstone of the European Union's push toward sustainability and circular economy practices.
 
