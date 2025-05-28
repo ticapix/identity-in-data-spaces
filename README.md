@@ -6,7 +6,7 @@ This is ongoing work and we are open for contributions. First, please take a loo
 
 ## Introduction
 
-One of the most important things to understand is how identities work in a data space. This repository will provide the answers by clarifying how identities can and should be used according to the principles defined in the IDSA Rulebook.
+One of the most important things to understand is how identifiers work in a data space. This repository will provide the answers by clarifying how identifiers can and should be used according to the principles defined in the IDSA Rulebook.
 
 Further, there will be derived architecture perspectives and best practices.
 
