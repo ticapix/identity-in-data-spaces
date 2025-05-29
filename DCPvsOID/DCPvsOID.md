@@ -13,7 +13,7 @@ Policies, which define the rules and expectations within the dataspace, serve as
 At last, Evidences bring additional information to support one or more claims and facilitate the risk-assessment made by the participating entities.
 
 Those policies, claims and evidences can be securely stored using Verifiable Credentials which ensure among other things, traceability and content-integrity.
-There are different types of Verifiable Credentials (W3C VC v1/v2, IETF SD-JWT, ISO mdoc/mDL, AnonCreds, ...) and both DCP and OpenID4VC can be used to issue and present W3C Verifiable Credentials.
+There are different types of Verifiable Credentials (W3C VC v1/v2, IETF SD-JWT, ISO mdoc/mDL, AnonCreds, ...) and both DCP and OID4VC can be used to issue and present W3C Verifiable Credentials.
 
 The reconciliation process begins with verifying claims and evidence against established policies. Leveraging credential exchange protocols such as DCP and OID4VC, facilitate the secure presentation of policies, claims and evidence for reconciliation. These protocols enable cryptographic assurances, ensuring that policies, claims and evidences are tamper-proof and verifiable without exposing sensitive underlying data. By validating these claims and evidence in compliance with the dataspace's overarching policies, participating entities can confirm their adherence to shared norms, fostering mutual trustworthiness.
 
