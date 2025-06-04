@@ -1,6 +1,6 @@
-# Contributing to IDSA Github for Observability Paper
+# Contributing to IDSA Github Repositories
 
-This is the working repository of [IDSA](https://www.internationaldataspaces.org) Observability Paper.
+This is the working repository of [IDSA](https://www.internationaldataspaces.org) on identities and identifiers in Data Spaces.
 
 All issues and pull requests need to be discussed in the Working Group meetings.
 
@@ -13,28 +13,28 @@ Please take a look at the following documents first to get some context before s
 
 * [IDSA Rulebook Functional Requirements](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/3_functional_requirements)
 * The Dataspace protocol at https://docs.internationaldataspaces.org/ids-knowledgebase/v/dataspace-protocol or https://github.com/eclipse-dataspace-protocol-base/DataspaceProtocol
-* The previous sections of the paper, as per the structure outlined [here](https://github.com/International-Data-Spaces-Association/observability-in-Data-Spaces/issues/28).
 
-We also kindly ask the authors to reference sections of the [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/1_introduction) in their contributions, so we have  ties between the RAM and the Rulebook.
+
+We also kindly ask the authors to reference sections of the [IDSA Rulebook](https://docs.internationaldataspaces.org/ids-knowledgebase/v/idsa-rulebook/idsa-rulebook/1_introduction) in their contributions, so we have ties between the RAM and the Rulebook.
 
 ## How to contribute
 
-You can support the Observability paper in two different ways:
+You can support this project in two different ways:
 
 1. Create new content
 1. or review content from other contributors and share your feedback through comments
 
 **If you are interested in creating new content:**
-* Check the [issues](https://github.com/International-Data-Spaces-Association/observability-in-Data-Spaces/issues) to see the areas where we need contributions
+* Check the [issues](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces/issues) to see the areas where we need contributions
 * Once you find a topic of interest, make sure to read the previous sections of the paper and the Rulebook as described in [Pre-read and references to the Rulebook](#Pre-read and references to the Rulebook)
 * Make a brief outline first in the related issue (even just in the form of a few bullet points), to share your initial ideas so you have a chance to get feedback from other contributors and maintainers before starting the writing process.
-* After you align on the overall approach with others through the conversations in the issue, please create a new (branch](#Branches) to work on the actual writing on this topic
-* Once you commit your content to the new brach you have just created, ask for a review by others, by creating a pull request.
-* Your pull request will apear in the list [here](https://github.com/International-Data-Spaces-Association/observability-in-Data-Spaces/pulls), and you will get notified when the reviewers you have assigned to the pull request or other interested colleagues share their feedback through comments in the oull request.
+* After you align on the overall approach with others through the conversations on the issue, please create a new (branch](#Branches) to work on the actual writing on this topic
+* Once you commit your content to the new branch you have just created, ask for a review by others by creating a pull request.
+* Your pull request will appear in the list [here](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces/pulls), and you will get notified when the reviewers you have assigned to the pull request or other interested colleagues share their feedback through comments in the pull request.
 
 **If you would like to review content from other contributors and share your thoughts:**
 
-* Please take a look at the pull requests [here](https://github.com/International-Data-Spaces-Association/observability-in-Data-Spaces/pulls)
+* Please take a look at the pull requests [here](https://github.com/International-Data-Spaces-Association/identity-in-data-spaces/pulls)
 * and add comments directly in the pull request you would like to have a say on.
 * This will notify the original contributor of the issue and help them engage with you on your feedback
 
@@ -109,8 +109,3 @@ Types: `fix`, `feat`, `chore`, `test`, `refactor`, `docs`, `release`. Append `!`
 changes to a type.
 
 An example of a very good commit might look like this: `feat![login]: add awesome breaking feature`
-
-## Versioning
-
-IDSA uses the [SemVer](https://semver.org/) for versioning. The release versions
-are tagged with their respective version.
