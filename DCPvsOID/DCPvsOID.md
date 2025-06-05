@@ -99,7 +99,7 @@ The issuance, presentation and verification of decentralized claims requires a p
 | Supported data exchange protocols**            | Eclipse Dataspace protocol (DSP)| Eclipse Dataspace protocol (DSP), TM Forum API, ... |
 
 *: interoperability is achieved via the specification of OID4VC profiles
-**: to be noted that those data exchange protocols are credentials format agnostic and no normative binding between a data exchange protocol and a verifiable credential exchang protocol has been identified.
+**: to be noted that those data exchange protocols are credentials format agnostic and no normative binding between a data exchange protocol and a verifiable credential exchange protocol has been identified.
 
 ## Eclipse Decentralized Claims Protocol (DCP)
 In the DCP specification the generic Issuer-Holder-Verifier Model is extended and mapped to the needs of dataspaces and the organizations participating.
