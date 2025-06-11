@@ -157,14 +157,14 @@ __Once you add AI scenarios and automated AI agents negotiating data sharing con
 Both DCP and OID4VC protocols have the same mission to securely enable the exchange of Verifiable Credentials.
 While both protocols do it slightly differently, it's important to note that both protocols can be used to exchange the same Verifiable Credentials.
 
-This last point alone meams that W3C Verifiable Credential exchanged in Manufacturing-X with one protocol can be exchanged with participants outside of Manufacturing-X with another protocol.
+This last point alone means that W3C Verifiable Credential exchanged in Manufacturing-X with one protocol can be exchanged with participants outside of Manufacturing-X with another protocol.
 
-To address data transaction regulatory compliance and policy compliance from dataspace authorities, and at the same time meet performance expectation from high-frequency credential exchange, the protocol used to exchange credentials needs to support an end-to-end traceability of the policies, claims and evidence being exchanged, and as such, need both human-in-the-loop and machine-to-machine support.
+To address data transaction regulatory compliance and policy compliance from dataspace authorities, and at the same time meet performance expectation from high-frequency credential exchange, the protocol used to exchange credentials needs to support both human-in-the-loop and machine-to-machine exchange profiles.
 
-That's the reason we see the emergence of multi-protocol agent/connector/wallet/credential stores, some with additional support of previous protocols dedicated to Machine-to-Machine (M2M) like DIDComm.
+That's the reason we see the emergence of multi-protocol agents also called connectors or wallets or credential stores, some with the additional support of previous protocols dedicated to Machine-to-Machine (M2M) like DIDComm.
 This enable a W3C Verifiable Credentials to be first exchanged with OID4VC with or without human interaction and later continue its journey and be exchanged with DCP.
-This creates a true end-to-end tracealbility of the credential, and preserve the priviledge of the Dataspace Authority to recommend or enforce specific protocols.
 
-Of course, the downside of this approach is the technical need for the concerned Dataspace Authorities to maintain a dual-stack protocols.
+This creates a true end-to-end traceability of the policies, claims and evidence being exchanged with credentials, and preserve the priviledge of the Dataspace Authority to recommend or enforce specific protocols.
+Of course, the downside of this approach is the technical need for the concerned Dataspace Authorities to maintain dual-stack softwares.
 
-However, considering the increasing adoption of one of the protocol inside and outside the dataspace ecosystem, there is a clear expectation from the market for the two protocols DCP and OID4VC to converge, one becoming the recommend M2M profile of the other.
+Considering the increasing adoption of one of the protocols inside and outside of the dataspace ecosystem, there is a clear expectation from the market for the two protocols DCP and OID4VC to converge, one becoming the recommend M2M profile of the other.
